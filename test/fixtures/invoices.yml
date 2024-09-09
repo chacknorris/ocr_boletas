@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  extracted_text: MyText
+  date: 2024-09-09
+  total: 9.99
+
+two:
+  image: MyString
+  extracted_text: MyText
+  date: 2024-09-09
+  total: 9.99
